@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  Vaibhav kumar
 - 👀 I’m interested in Software Development and enthusiastic about Data Science and Machine Learning.
-- 🌱 I’m currently working with Keross R & D as Software developer Intern .
+- 🌱 I’m currently working with Keross R & D as Software Engineer Level-1 .
 - 💞️ I’m looking to collaborate on some cool new bussiness idea.
 - Here is the link to my resume: https://drive.google.com/file/d/1YGWsKO5yzvsp84obs7nZwyjNR6ZHQoYN/view?usp=sharing
 - 📫 How to reach me ...
