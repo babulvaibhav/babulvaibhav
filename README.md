@@ -1,10 +1,34 @@
-- 👋 Hi, I’m  Vaibhav kumar
-- 👀 I’m interested in Software Development and enthusiastic about Data Science and Machine Learning.
-- 🌱 I’m currently working with Keross R & D as Software Engineer Level-1 .
-- 💞️ I’m looking to collaborate on some cool new bussiness idea.
-- Here is the link to my resume: https://drive.google.com/file/d/1YGWsKO5yzvsp84obs7nZwyjNR6ZHQoYN/view?usp=sharing
-- 📫 How to reach me ...
-- Here is my personel email: vaibhavkumar.cse.20191017@gmail.com
+Hi, I'm Vaibhav Kumar 👋
+
+Backend Software Engineer | Java | Spring Boot | Microservices
+
+I’m a software engineer focused on building scalable backend applications and distributed systems using Java and the Spring ecosystem.
+
+🛠️ Tech Stack
+
+Languages: Java, TypeScript, SQL
+Backend: Spring Boot, Spring, REST APIs, Microservices, Hibernate
+Database: MySQL, PostgreSQL Oracle
+Frontend: React.js, HTML, CSS
+Tools & Practices: Git, Maven, Docker, API Design, SDLC
+
+💻 What I Work On
+
+Designing and developing RESTful APIs & microservices
+Solving complex backend and data-processing problems
+Working with relational databases and optimizing SQL queries
+Building applications with clean, maintainable architecture
+Exploring modern Java and Spring Boot technologies
+
+📚 Currently Learning
+
+Advanced Java • Spring Boot • Microservices • System Design • Cloud & Distributed Systems
+
+🤝 Connect With Me
+
+I’m open to discussing backend engineering, Java/Spring Boot, software architecture, and interesting technology projects.
+
+📫 Feel free to explore my repositories and connect with me.
 
 
 
